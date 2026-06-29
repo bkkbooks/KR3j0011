@@ -1,0 +1,84 @@
+canonical_identifier: bkk:krp/KR3j0011/v1
+canonical_location: https://kanripo.org/bkk/KR3j0011/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 人物志三卷
+  identifiers:
+    krp: KR3j0011
+  tags:
+    tls-dates: dat04500
+    kr-categories: KR3j
+    tls-internal:
+    - swl
+    - tr-en
+    - tr-ru
+    - tr-fr
+  source:
+    repository: tls-texts
+    path: data/tls/KR3j0011.xml
+  edition:
+    short: bkk
+editions:
+- short: SBCK
+  label: 【四部叢刊】
+- short: WYG
+  label: 【四庫全書・文淵閣】
+- short: krp
+assets:
+  parts:
+  - {seq: 1, filename: KR3j0011_001.yaml, hash: 'sha256:79d2dee4683f3b4a8bdb695d8d4db6c3fa78d861260bb8592b1190781b75191c'}
+  - {seq: 2, filename: KR3j0011_002.yaml, hash: 'sha256:f0c372f0025de962d081daf4bcee88a465c2ff502aa12b7b9bb003a39e9e59da'}
+  - {seq: 3, filename: KR3j0011_003.yaml, hash: 'sha256:3a86e61452cd7886beda4d19790c2d7e5246c0336b1b326e990bcb59c875e242'}
+  - {seq: 4, filename: KR3j0011_004.yaml, hash: 'sha256:62a681e7a54262cd96c93b6bc0f0f9d47e3a9acf7fc9ff7b26950e297a5fe6d0'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3j0011_001.markers.yaml, hash: 'sha256:914ec925a9df1e33c237686178e07d3c61bdd3d8025b60ae7597824b21ba462f'}
+  - {seq: 2, role: markers, filename: assets/KR3j0011_002.markers.yaml, hash: 'sha256:d39fc49c9f91ed734c50ceac5dad57536df5740f020d7f126663f3c0fb7b6365'}
+  - {seq: 3, role: markers, filename: assets/KR3j0011_003.markers.yaml, hash: 'sha256:e17eacd963d2fbc3ca2ea145acca434f071ec6f47deff8aa5e3328c829592d6e'}
+  - {seq: 4, role: markers, filename: assets/KR3j0011_004.markers.yaml, hash: 'sha256:4e7624f8520402762309450f0abbbf949854d9e41a93a3fa0cffc6c136408e92'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3j0011_CHANT_001-1a.1-h
+    span:
+    - front
+    - 0
+    - 664
+  label: 人物志序
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3j0011_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 7244
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3j0011_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 8673
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3j0011_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 7062
+  label: 卷下
+  type: section
+  level: 1
+hash: sha256:6777db837652f7d57197ae13861925d2b248507719a815298503b2f5a5d87658
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

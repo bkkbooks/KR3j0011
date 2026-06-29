@@ -1,0 +1,138 @@
+canonical_identifier: bkk:krp/KR3j0011/krp/v1/markers/5
+seq: 5
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR3j0011_SBCK_005-1a01}
+  - {type: indent, offset: 0, content: 　　, id: KR3j0011_krp_005-bkkind1}
+  - {type: variant, offset: 0, length: 2, content: 重刻, WYG: 右}
+  - {type: page-break, offset: 0, content: '', id: KR3j0011_WYG_005-1a, image: WYG0848/WYG0848-0789c.png}
+  - {type: variant, offset: 5, length: 7, content: 跋劉邵人物志凡, WYG: 三卷}
+  - {type: 'kr:newline', offset: 6, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl2}
+  - {type: line-break, offset: 6, content: '', id: KR3j0011_SBCK_005-1a02}
+  - {type: variant, offset: 15, length: 60, content: 辨性質而凖之中庸甄材品以程其職任事核詞章三代而下善評人品者莫或能踰之矣邵生漢末乃其著論體裁纚然有荀卿韓非風致而亹亹自成一, WYG: 魏劉卲撰案隋唐經籍志篇第皆與今同列於名}
+  - {type: 'kr:newline', offset: 22, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl3}
+  - {type: line-break, offset: 22, content: '', id: KR3j0011_SBCK_005-1a03}
+  - {type: 'kr:newline', offset: 38, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl4}
+  - {type: line-break, offset: 38, content: '', id: KR3j0011_SBCK_005-1a04}
+  - {type: 'kr:newline', offset: 54, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl5}
+  - {type: line-break, offset: 54, content: '', id: KR3j0011_SBCK_005-1a05}
+  - {type: 'kr:newline', offset: 70, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl6}
+  - {type: line-break, offset: 70, content: '', id: KR3j0011_SBCK_005-1a06}
+  - {type: variant, offset: 76, length: 43, content: 言即九徴八則之論質之孔孟觀人之法唐虞九徳之㫖自有發所未發者後世欲辨官論材惡可以不知也顧, WYG: 十六國時燉煌劉昞重}
+  - {type: 'kr:newline', offset: 86, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl7}
+  - {type: line-break, offset: 86, content: '', id: KR3j0011_SBCK_005-1a07}
+  - {type: variant, offset: 100, length: 1, content: 發, SBCK: 􅀤}
+  - {type: 'kr:newline', offset: 102, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl8}
+  - {type: line-break, offset: 102, content: '', id: KR3j0011_SBCK_005-1a08}
+  - {type: variant, offset: 103, length: 1, content: 發, SBCK: 􅀤}
+  - {type: 'kr:newline', offset: 118, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl9}
+  - {type: page-break, offset: 118, content: '', id: KR3j0011_SBCK_005-1b}
+  - {type: 'kr:newline', offset: 118, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl10}
+  - {type: line-break, offset: 118, content: '', id: KR3j0011_SBCK_005-1b01}
+  - {type: variant, offset: 121, length: 1, content: 獲, SBCK: 􅀗}
+  - {type: variant, offset: 121, length: 2, content: 獲見, WYG: 始作注解然世所傳本多謬誤今合官私書校之去其複重附益之文為定本内或疑字無書可證}
+  - {type: variant, offset: 124, length: 4, content: 少又脫落, WYG: 今據衆本皆相承傳疑}
+  - {type: variant, offset: 129, length: 7, content: 讀大中丞真定梁, WYG: 輒意改云卲之叙五行曰簡暢而明砭火之徳也徧檢書傳無明砭之證案字書砭者以石刺病此外更無他訓然自魏晉以後轉相傳寫豕亥之變莫能究知不爾則卲當别有異聞今則亡矣愚謂明砭都無意義自東晉諸}
+  - {type: page-break, offset: 129, content: '', id: KR3j0011_WYG_005-1b, image: WYG0848/WYG0848-0789d.png}
+  - {type: 'kr:newline', offset: 130, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl11}
+  - {type: line-break, offset: 130, content: '', id: KR3j0011_SBCK_005-1b02}
+  - {type: variant, offset: 137, length: 33, content: 持節鉞拊鎮中州熊車所莅吏稱民安爰覔善本加訂正刻之宋郡用以傳之人人授, WYG: 草書啟字為然疑為}
+  - {type: variant, offset: 139, length: 1, content: 鉞, SBCK: 􅃏}
+  - {type: 'kr:newline', offset: 146, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl12}
+  - {type: line-break, offset: 146, content: '', id: KR3j0011_SBCK_005-1b03}
+  - {type: 'kr:newline', offset: 162, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl13}
+  - {type: line-break, offset: 162, content: '', id: KR3j0011_SBCK_005-1b04}
+  - {type: variant, offset: 171, length: 89, content: 屬吏旻綴一言于末簡旻得卒業反復流業篇國體器能之說深有味乎其言之也今中丞公厲風俗正天下謀廟勝三材允兼至其振䇿群吏惟器所適靡不奮力展采兢兢罔敢怠遑總逹衆材至矣異日秉鈞當軸將使官不易方, WYG: 暢}
+  - {type: 'kr:newline', offset: 178, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl14}
+  - {type: line-break, offset: 178, content: '', id: KR3j0011_SBCK_005-1b05}
+  - {type: 'kr:newline', offset: 194, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl15}
+  - {type: line-break, offset: 194, content: '', id: KR3j0011_SBCK_005-1b06}
+  - {type: variant, offset: 194, length: 1, content: 說, SBCK: 􅀃}
+  - {type: 'kr:newline', offset: 204, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl16}
+  - {type: line-break, offset: 204, content: '', id: KR3j0011_SBCK_005-1b07}
+  - {type: 'kr:newline', offset: 220, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl17}
+  - {type: line-break, offset: 220, content: '', id: KR3j0011_SBCK_005-1b08}
+  - {type: 'kr:newline', offset: 236, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl18}
+  - {type: page-break, offset: 236, content: '', id: KR3j0011_SBCK_005-2a}
+  - {type: 'kr:newline', offset: 236, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl19}
+  - {type: line-break, offset: 236, content: '', id: KR3j0011_SBCK_005-2a01}
+  - {type: 'kr:newline', offset: 252, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl20}
+  - {type: line-break, offset: 252, content: '', id: KR3j0011_SBCK_005-2a02}
+  - {type: variant, offset: 261, length: 69, content: 太平用成知人安民之道拭目身親見之邵之志何幸獲酬於公哉刻成輙忘固陋僣書識刻之歲月覽者當知言之非佞云隆慶六年壬申仲夏之吉歸徳府知府掲陽鄭旻謹書, WYG: 明啟耳文寛夫題}
+  - {type: 'kr:newline', offset: 268, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl21}
+  - {type: line-break, offset: 268, content: '', id: KR3j0011_SBCK_005-2a03}
+  - {type: variant, offset: 282, length: 1, content: 獲, SBCK: 􅀗}
+  - {type: 'kr:newline', offset: 284, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl22}
+  - {type: line-break, offset: 284, content: '', id: KR3j0011_SBCK_005-2a04}
+  - {type: variant, offset: 298, length: 1, content: 歲, SBCK: 􅀊}
+  - {type: 'kr:newline', offset: 300, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl23}
+  - {type: line-break, offset: 300, content: '', id: KR3j0011_SBCK_005-2a05}
+  - {type: 'kr:newline', offset: 309, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl24}
+  - {type: line-break, offset: 309, content: '', id: KR3j0011_SBCK_005-2a06}
+  - {type: 'kr:newline', offset: 325, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl25}
+  - {type: line-break, offset: 325, content: '', id: KR3j0011_SBCK_005-2a07}
+  - {type: 'kr:newline', offset: 330, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl26}
+  - {type: page-break, offset: 330, content: '', id: KR3j0011_SBCK_005-2b}
+  - {type: 'kr:newline', offset: 330, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl27}
+  - {type: page-break, offset: 330, content: '', id: KR3j0011_SBCK_005-2b}
+  - {type: 'kr:newline', offset: 330, content: '
+
+      ', id: KR3j0011_krp_005-bkkkrnewl28}
+  back: []
+hash: sha256:b891a5f65cfd46a1da10b8dbcd4ca555fa423639fb0373b78f92adfd00978cce

@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR3j0011/WYG/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 右人物志三卷十二篇魏劉卲撰案隋唐經籍志篇第皆與今同列於名家十六國時燉煌劉昞重其書始作注解然世所傳本多謬誤今合官私書校之去其複重附益之文為定本内或疑字無書可證者今據衆本皆相承傳疑難輒意改云卲之叙五行曰簡暢而明砭火之徳也徧檢書傳無明砭之證案字書砭者以石刺病此外更無他訓然自魏晉以後轉相傳寫豕亥之變莫能究知不爾則卲當别有異聞今則亡矣愚謂明砭都無意義自東晉諸公草書啟字為然疑為簡暢而明啟耳文寛夫題
+  hash: sha256:16d8bc9711d3873926f408c508be4f0053b6f86062f256d42e3bd8a484260d12
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3j0011_WYG_005-1a, image: WYG0848/WYG0848-0789c.png}
+metadata:
+  title: 人物志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 03:58:42.622099'
+  source:
+    repository: kanripo
+    path: KR3j0011/KR3j0011_005.txt
+hash: sha256:88343a292530ff74358072e3c866c0ad28c7b81aec9c0b48788735d2f3bec115

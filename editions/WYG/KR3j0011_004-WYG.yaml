@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR3j0011/WYG/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 後序余嘗三復人物志而竊有感焉夫人徳性資之繼成初未始有異也而終之相去懸絶者醇駁較於材隆汚判諸習曰三品曰五儀胥是焉而賢不肖殊途矣是以知人之哲古人難之言貌而取人者聖人弗是也兹劉卲氏之所以志人物也乎脩己者得之以自觀用人者持之以照物焉可廢諸然用舎之際人材之趨向由之可不慎乎精於擇而庸適其能篤於任而弗貳以私則真材獲用大猷允升矣其或偏聴眩志而用不以道動曰才難吾恐蕭艾弗擇魚目混珠也左馮翊王三省識
+  hash: sha256:5bc35c50ea01c6193a524d1df8c27b36d4fb7a24aecf4c1a3067bd8a05a70730
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3j0011_WYG_004-1a, image: WYG0848/WYG0848-0789a.png}
+metadata:
+  title: 人物志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 03:58:42.622099'
+  source:
+    repository: kanripo
+    path: KR3j0011/KR3j0011_004.txt
+hash: sha256:28d22754cb2bd13a7cb51ebcd3c9fecd20d9b5e97810ad9d7420deef5f72b46f
