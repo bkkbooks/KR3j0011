@@ -70,7 +70,6 @@ markers:
   - {type: 'tls:seg', offset: 63, content: '', id: KR3j0011_CHANT_001-1a.13}
   - {type: variant, offset: 63, length: 0, content: '', WYG: 乏應機以之閑静}
   - {type: variant, offset: 64, length: 5, content: 眾材得其序, WYG: 𤣥㣲之道搆以之濟世則勁㨗}
-  - {type: substitution, offset: 64, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 69, content: ，, id: KR3j0011_CHANT_001-bkkpn18}
   - {type: 'tls:seg', offset: 69, content: '', id: KR3j0011_CHANT_001-1a.14}
   - {type: variant, offset: 70, length: 6, content: 庶績之業興矣, WYG: 無成猶火日外照不能内見金水内暎不能外光人各有能物各有性}
@@ -271,7 +270,6 @@ markers:
   - {type: 'tls:seg', offset: 194, content: '', id: KR3j0011_CHANT_001-1a.35}
   - {type: variant, offset: 196, length: 23, content: 以達眾善而成天功也繼天成物其任至重故求賢舉善常, WYG: 由矣人人競説}
   - {type: variant, offset: 196, length: 23, content: 以達眾善而成天功也繼天成物其任至重故求賢舉善常, krp: 由矣人人競說}
-  - {type: substitution, offset: 198, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 205, content: 。, id: KR3j0011_CHANT_001-bkkpn46}
   - {type: 'tls:seg', offset: 205, content: '', id: KR3j0011_CHANT_001-1a.36}
   - {type: punctuation, offset: 205, content: (, id: KR3j0011_CHANT_001-bkkpn47}
@@ -357,7 +355,6 @@ markers:
   - {type: 'tls:seg', offset: 348, content: '', id: KR3j0011_CHANT_001-1a.60}
   - {type: punctuation, offset: 356, content: ，, id: KR3j0011_CHANT_001-bkkpn77}
   - {type: 'tls:seg', offset: 356, content: '', id: KR3j0011_CHANT_001-1a.61}
-  - {type: substitution, offset: 358, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 364, content: 。, id: KR3j0011_CHANT_001-bkkpn78}
   - {type: 'tls:seg', offset: 364, content: '', id: KR3j0011_CHANT_001-1a.62}
   - {type: punctuation, offset: 364, content: (, id: KR3j0011_CHANT_001-bkkpn79}
@@ -533,4 +530,4 @@ markers:
   - {type: xml-element, offset: 664, content: '', id: KR3j0011_CHANT_001-bkkxmlele2}
   body: []
   back: []
-hash: sha256:914ec925a9df1e33c237686178e07d3c61bdd3d8025b60ae7597824b21ba462f
+hash: sha256:dc776df93cc896533c0ec9c6366138c910b6274f54bd7d9cd22b6fe970b77a9f
