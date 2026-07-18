@@ -20,6 +20,7 @@ markers:
   - {type: 'tls:seg', offset: 6, content: '', id: KR3j0011_CHANT_002-1a.3}
   - {type: punctuation, offset: 6, content: (, id: KR3j0011_CHANT_002-bkkpn3}
   - {type: page-break, offset: 6, content: '', id: KR3j0011_SBCK_002-1a}
+  - {type: voice, offset: 6, length: 16, name: note, id: n1}
   - {type: variant, offset: 8, length: 2, content: 情性, SBCK: ''}
   - {type: variant, offset: 8, length: 2, content: 情性, WYG: ''}
   - {type: variant, offset: 8, length: 2, content: 情性, krp: ''}
@@ -72,6 +73,7 @@ markers:
   - {type: punctuation, offset: 35, content: 。, id: KR3j0011_CHANT_002-bkkpn12}
   - {type: 'tls:seg', offset: 35, content: '', id: KR3j0011_CHANT_002-1a.10}
   - {type: punctuation, offset: 35, content: (, id: KR3j0011_CHANT_002-bkkpn13}
+  - {type: voice, offset: 35, length: 24, name: note, id: n2}
   - {type: punctuation, offset: 41, content: ，, id: KR3j0011_CHANT_002-bkkpn14}
   - {type: 'tls:seg', offset: 41, content: '', id: KR3j0011_CHANT_002-1a.11}
   - {type: punctuation, offset: 47, content: 。, id: KR3j0011_CHANT_002-bkkpn15}
@@ -121,6 +123,7 @@ markers:
   - {type: punctuation, offset: 78, content: ？, id: KR3j0011_CHANT_002-bkkpn22}
   - {type: 'tls:seg', offset: 78, content: '', id: KR3j0011_CHANT_002-1a.18}
   - {type: punctuation, offset: 78, content: (, id: KR3j0011_CHANT_002-bkkpn23}
+  - {type: voice, offset: 78, length: 18, name: note, id: n3}
   - {type: punctuation, offset: 82, content: ，, id: KR3j0011_CHANT_002-bkkpn24}
   - {type: 'tls:seg', offset: 82, content: '', id: KR3j0011_CHANT_002-1a.19}
   - {type: variant, offset: 87, length: 3, content: 覩惟聖, SBCK: 賤法家之業本于制度待乎成功而效法以禁姦姦止乃效其道前苦而後治嚴而爲衆􅀄布威嚴是以勞苦終以道化是以民治故其未逹也爲衆}
@@ -178,6 +181,7 @@ markers:
   - {type: punctuation, offset: 109, content: ，, id: KR3j0011_CHANT_002-bkkpn29}
   - {type: 'tls:seg', offset: 109, content: '', id: KR3j0011_CHANT_002-1a.23}
   - {type: punctuation, offset: 109, content: (, id: KR3j0011_CHANT_002-bkkpn30}
+  - {type: voice, offset: 109, length: 12, name: note, id: n4}
   - {type: variant, offset: 111, length: 0, content: '', SBCK: 疑在上者兼明八材然後乃能盡其所進用而無疑矣然則何以知其兼偏而與之言乎察言之時何以識其偏材何以識其兼材也其爲人也務以流數杼人之所長而爲之名目如是兼也每因事􅀋杼盡人之所能爲之名目言不容口如陳以羙欲人稱之巳之有善因事自􅀃又欲令人言常稱巳不欲知人之所有如是者偏也人之有善耳不樂聞人􅁛之口不和也不欲知人則言無不疑聞法則疑其刻削聞術則疑其詭詐是故以深􅀃淺益深益異淺者意近故聞深理而心逾衒是以商君􅀃帝王之道不入則以彊兵之義示之異則相返反則相非聞深則心衒焉得而相是是以李兌塞而不聽蘇秦之􅀃是故多陳處􅀡則以爲見美以其多方疑似見羙也静聽不言則以爲虚空待時來語疑其無實抗爲髙談則爲不遜辭護理髙疑其凌巳遜讓不盡則以爲淺陋卑言寡氣疑其淺薄言稱一善則以爲不􅀶未敢多陳疑其陋狹歷􅀤衆竒則以爲多端偏舉事􅀋則欲以釋之復以爲多端先意而言則以爲分羙言合其意疑分巳羙因失難之則以爲不喻欲􅀘其失反不喻也􅀃以對反則以爲較已欲反其事而明言乃疑其較也􅀶以異雜則以爲無要控盡所懐謂之無要論以同體然後乃恱弟兄忿肆爲陳管蔡之事則欣暢而和恱於是乎有親愛之情稱舉之譽苟言之同非徒親愛而巳乃}
   - {type: page-break, offset: 111, content: '', id: KR3j0011_SBCK_002-11a}
   - {type: page-break, offset: 111, content: '', id: KR3j0011_SBCK_002-11b}
@@ -206,6 +210,7 @@ markers:
   - {type: punctuation, offset: 127, content: ，, id: KR3j0011_CHANT_002-bkkpn34}
   - {type: 'tls:seg', offset: 127, content: '', id: KR3j0011_CHANT_002-1a.26}
   - {type: punctuation, offset: 127, content: (, id: KR3j0011_CHANT_002-bkkpn35}
+  - {type: voice, offset: 127, length: 12, name: note, id: n5}
   - {type: punctuation, offset: 132, content: ，, id: KR3j0011_CHANT_002-bkkpn36}
   - {type: 'tls:seg', offset: 132, content: '', id: KR3j0011_CHANT_002-1a.27}
   - {type: variant, offset: 136, length: 5, content: 意別矣體五, SBCK: 智成之智以制冝巧乃可成然後乃能各濟其所長也譬金待水而成利功物得水然後成養功􅀂聦能謀始而明不見機乃可以坐論而不可以處事智能坐論而明不見機何事務之能處聦能謀始明能見機而勇不能}
@@ -223,6 +228,7 @@ markers:
   - {type: punctuation, offset: 145, content: 。, id: KR3j0011_CHANT_002-bkkpn39}
   - {type: 'tls:seg', offset: 145, content: '', id: KR3j0011_CHANT_002-1a.29}
   - {type: punctuation, offset: 145, content: (, id: KR3j0011_CHANT_002-bkkpn40}
+  - {type: voice, offset: 145, length: 10, name: note, id: n6}
   - {type: substitution, offset: 146, original: 勁, replacement: 徑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20194}}
   - {type: punctuation, offset: 149, content: ，, id: KR3j0011_CHANT_002-bkkpn41}
   - {type: 'tls:seg', offset: 149, content: '', id: KR3j0011_CHANT_002-1a.30}
@@ -243,6 +249,7 @@ markers:
   - {type: variant, offset: 165, length: 14, content: 由氣色外著故相者得其情素也凡, SBCK: 能爲力能過}
   - {type: variant, offset: 165, length: 14, content: 由氣色外著故相者得其情素也凡, WYG: 能為力能過}
   - {type: variant, offset: 165, length: 14, content: 由氣色外著故相者得其情素也凡, krp: 能爲力能過}
+  - {type: voice, offset: 165, length: 13, name: note, id: n7}
   - {type: punctuation, offset: 170, content: ，, id: KR3j0011_CHANT_002-bkkpn47}
   - {type: 'tls:seg', offset: 170, content: '', id: KR3j0011_CHANT_002-1a.34}
   - {type: punctuation, offset: 178, content: 。, id: KR3j0011_CHANT_002-bkkpn48}
@@ -259,6 +266,7 @@ markers:
   - {type: punctuation, offset: 188, content: 。, id: KR3j0011_CHANT_002-bkkpn51}
   - {type: 'tls:seg', offset: 188, content: '', id: KR3j0011_CHANT_002-2a.4}
   - {type: punctuation, offset: 188, content: (, id: KR3j0011_CHANT_002-bkkpn52}
+  - {type: voice, offset: 188, length: 22, name: note, id: n8}
   - {type: punctuation, offset: 192, content: ，, id: KR3j0011_CHANT_002-bkkpn53}
   - {type: 'tls:seg', offset: 192, content: '', id: KR3j0011_CHANT_002-2a.5}
   - {type: punctuation, offset: 196, content: 。, id: KR3j0011_CHANT_002-bkkpn54}
@@ -278,6 +286,7 @@ markers:
   - {type: punctuation, offset: 219, content: ，, id: KR3j0011_CHANT_002-bkkpn60}
   - {type: 'tls:seg', offset: 219, content: '', id: KR3j0011_CHANT_002-2a.11}
   - {type: punctuation, offset: 219, content: (, id: KR3j0011_CHANT_002-bkkpn61}
+  - {type: voice, offset: 219, length: 23, name: note, id: n9}
   - {type: punctuation, offset: 222, content: ，, id: KR3j0011_CHANT_002-bkkpn62}
   - {type: 'tls:seg', offset: 222, content: '', id: KR3j0011_CHANT_002-2a.12}
   - {type: punctuation, offset: 228, content: 。, id: KR3j0011_CHANT_002-bkkpn63}
@@ -306,6 +315,7 @@ markers:
   - {type: punctuation, offset: 252, content: 。, id: KR3j0011_CHANT_002-bkkpn70}
   - {type: 'tls:seg', offset: 252, content: '', id: KR3j0011_CHANT_002-2a.19}
   - {type: punctuation, offset: 252, content: (, id: KR3j0011_CHANT_002-bkkpn71}
+  - {type: voice, offset: 252, length: 16, name: note, id: n10}
   - {type: punctuation, offset: 256, content: ，, id: KR3j0011_CHANT_002-bkkpn72}
   - {type: 'tls:seg', offset: 256, content: '', id: KR3j0011_CHANT_002-2a.20}
   - {type: variant, offset: 259, length: 26, content: 御致用有宜通變無滯是故觀人察質必先察其平淡而後求其聰, SBCK: 聦能謀始}
@@ -329,6 +339,7 @@ markers:
   - {type: variant, offset: 286, length: 1, content: 譬, SBCK: 能見機膽能决}
   - {type: variant, offset: 286, length: 1, content: 譬, WYG: 能見機膽能决}
   - {type: variant, offset: 286, length: 1, content: 譬, krp: 能見機膽能决}
+  - {type: voice, offset: 286, length: 25, name: note, id: n11}
   - {type: variant, offset: 288, length: 222, content: 驥騄雖超逸絕群若氣性不和必有毀銜碎首決胸之禍也聰明者陰陽之精離目坎耳視聽之所由也陰陽清和則中叡外明聖人淳耀能兼二美知微知章耳目兼察通幽達微官材授方舉無遺失自非聖人莫能兩遂雖得之於目或失之於耳故明白之士達動之機而暗於玄慮達於進趨而暗於止靜以之進趨則欲速而成疾以之深慮則抗奪而不入也玄慮之人識靜之原而困於速捷性安沉默而智乏應機以之閑靜則玄微之道搆以之濟世則勁捷而無成猶火日外照不能內見金水內映不能外光人各有能物各有性是以聖人任明白以進趨委守成於玄慮, SBCK: ''}
   - {type: variant, offset: 288, length: 222, content: 驥騄雖超逸絕群若氣性不和必有毀銜碎首決胸之禍也聰明者陰陽之精離目坎耳視聽之所由也陰陽清和則中叡外明聖人淳耀能兼二美知微知章耳目兼察通幽達微官材授方舉無遺失自非聖人莫能兩遂雖得之於目或失之於耳故明白之士達動之機而暗於玄慮達於進趨而暗於止靜以之進趨則欲速而成疾以之深慮則抗奪而不入也玄慮之人識靜之原而困於速捷性安沉默而智乏應機以之閑靜則玄微之道搆以之濟世則勁捷而無成猶火日外照不能內見金水內映不能外光人各有能物各有性是以聖人任明白以進趨委守成於玄慮, WYG: ''}
   - {type: variant, offset: 288, length: 222, content: 驥騄雖超逸絕群若氣性不和必有毀銜碎首決胸之禍也聰明者陰陽之精離目坎耳視聽之所由也陰陽清和則中叡外明聖人淳耀能兼二美知微知章耳目兼察通幽達微官材授方舉無遺失自非聖人莫能兩遂雖得之於目或失之於耳故明白之士達動之機而暗於玄慮達於進趨而暗於止靜以之進趨則欲速而成疾以之深慮則抗奪而不入也玄慮之人識靜之原而困於速捷性安沉默而智乏應機以之閑靜則玄微之道搆以之濟世則勁捷而無成猶火日外照不能內見金水內映不能外光人各有能物各有性是以聖人任明白以進趨委守成於玄慮, krp: ''}
@@ -347,6 +358,7 @@ markers:
   - {type: punctuation, offset: 318, content: 。, id: KR3j0011_CHANT_002-bkkpn87}
   - {type: 'tls:seg', offset: 318, content: '', id: KR3j0011_CHANT_002-2a.32}
   - {type: punctuation, offset: 318, content: (, id: KR3j0011_CHANT_002-bkkpn88}
+  - {type: voice, offset: 318, length: 10, name: note, id: n12}
   - {type: punctuation, offset: 320, content: 、, id: KR3j0011_CHANT_002-bkkpn89}
   - {type: punctuation, offset: 322, content: ，, id: KR3j0011_CHANT_002-bkkpn90}
   - {type: 'tls:seg', offset: 322, content: '', id: KR3j0011_CHANT_002-2a.33}
@@ -365,6 +377,7 @@ markers:
   - {type: punctuation, offset: 349, content: ，, id: KR3j0011_CHANT_002-bkkpn97}
   - {type: 'tls:seg', offset: 349, content: '', id: KR3j0011_CHANT_002-2a.39}
   - {type: punctuation, offset: 349, content: (, id: KR3j0011_CHANT_002-bkkpn98}
+  - {type: voice, offset: 349, length: 16, name: note, id: n13}
   - {type: punctuation, offset: 353, content: ，, id: KR3j0011_CHANT_002-bkkpn99}
   - {type: 'tls:seg', offset: 353, content: '', id: KR3j0011_CHANT_002-2a.40}
   - {type: punctuation, offset: 357, content: ，, id: KR3j0011_CHANT_002-bkkpn100}
@@ -379,6 +392,7 @@ markers:
   - {type: punctuation, offset: 373, content: 。, id: KR3j0011_CHANT_002-bkkpn105}
   - {type: 'tls:seg', offset: 373, content: '', id: KR3j0011_CHANT_002-2a.45}
   - {type: punctuation, offset: 373, content: (, id: KR3j0011_CHANT_002-bkkpn106}
+  - {type: voice, offset: 373, length: 10, name: note, id: n14}
   - {type: punctuation, offset: 378, content: ，, id: KR3j0011_CHANT_002-bkkpn107}
   - {type: 'tls:seg', offset: 378, content: '', id: KR3j0011_CHANT_002-2a.46}
   - {type: punctuation, offset: 383, content: 。, id: KR3j0011_CHANT_002-bkkpn108}
@@ -391,6 +405,7 @@ markers:
   - {type: punctuation, offset: 397, content: ；, id: KR3j0011_CHANT_002-bkkpn112}
   - {type: 'tls:seg', offset: 397, content: '', id: KR3j0011_CHANT_002-2a.50}
   - {type: punctuation, offset: 397, content: (, id: KR3j0011_CHANT_002-bkkpn113}
+  - {type: voice, offset: 397, length: 30, name: note, id: n15}
   - {type: punctuation, offset: 401, content: ，, id: KR3j0011_CHANT_002-bkkpn114}
   - {type: 'tls:seg', offset: 401, content: '', id: KR3j0011_CHANT_002-2a.51}
   - {type: punctuation, offset: 406, content: 。, id: KR3j0011_CHANT_002-bkkpn115}
@@ -411,6 +426,7 @@ markers:
   - {type: punctuation, offset: 440, content: 。, id: KR3j0011_CHANT_002-bkkpn123}
   - {type: 'tls:seg', offset: 440, content: '', id: KR3j0011_CHANT_002-2a.59}
   - {type: punctuation, offset: 440, content: (, id: KR3j0011_CHANT_002-bkkpn124}
+  - {type: voice, offset: 440, length: 29, name: note, id: n16}
   - {type: punctuation, offset: 444, content: ，, id: KR3j0011_CHANT_002-bkkpn125}
   - {type: 'tls:seg', offset: 444, content: '', id: KR3j0011_CHANT_002-2a.60}
   - {type: punctuation, offset: 449, content: 。, id: KR3j0011_CHANT_002-bkkpn126}
@@ -435,6 +451,7 @@ markers:
   - {type: punctuation, offset: 486, content: 。, id: KR3j0011_CHANT_002-bkkpn135}
   - {type: 'tls:seg', offset: 486, content: '', id: KR3j0011_CHANT_002-2a.69}
   - {type: punctuation, offset: 486, content: (, id: KR3j0011_CHANT_002-bkkpn136}
+  - {type: voice, offset: 486, length: 35, name: note, id: n17}
   - {type: punctuation, offset: 490, content: ，, id: KR3j0011_CHANT_002-bkkpn137}
   - {type: 'tls:seg', offset: 490, content: '', id: KR3j0011_CHANT_002-2a.70}
   - {type: punctuation, offset: 494, content: 。, id: KR3j0011_CHANT_002-bkkpn138}
@@ -463,6 +480,7 @@ markers:
   - {type: variant, offset: 531, length: 32, content: 陽動陰靜乃天地之定性況人物乎若量其材質稽諸五物五物之徵亦各著於厥, SBCK: ''}
   - {type: variant, offset: 531, length: 32, content: 陽動陰靜乃天地之定性況人物乎若量其材質稽諸五物五物之徵亦各著於厥, WYG: ''}
   - {type: variant, offset: 531, length: 32, content: 陽動陰靜乃天地之定性況人物乎若量其材質稽諸五物五物之徵亦各著於厥, krp: ''}
+  - {type: voice, offset: 531, length: 14, name: note, id: n18}
   - {type: punctuation, offset: 535, content: ，, id: KR3j0011_CHANT_002-bkkpn147}
   - {type: 'tls:seg', offset: 535, content: '', id: KR3j0011_CHANT_002-2a.78}
   - {type: punctuation, offset: 541, content: ，, id: KR3j0011_CHANT_002-bkkpn148}
@@ -486,6 +504,7 @@ markers:
   - {type: 'tls:seg', offset: 565, content: '', id: KR3j0011_CHANT_002-3a.6}
   - {type: punctuation, offset: 565, content: (, id: KR3j0011_CHANT_002-bkkpn155}
   - {type: substitution, offset: 565, original: 䈥, replacement: 筋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-3926}}
+  - {type: voice, offset: 565, length: 16, name: note, id: n19}
   - {type: punctuation, offset: 569, content: ，, id: KR3j0011_CHANT_002-bkkpn156}
   - {type: 'tls:seg', offset: 569, content: '', id: KR3j0011_CHANT_002-3a.7}
   - {type: punctuation, offset: 573, content: ，, id: KR3j0011_CHANT_002-bkkpn157}
@@ -507,6 +526,7 @@ markers:
   - {type: punctuation, offset: 600, content: 。, id: KR3j0011_CHANT_002-bkkpn167}
   - {type: 'tls:seg', offset: 600, content: '', id: KR3j0011_CHANT_002-3a.13}
   - {type: punctuation, offset: 600, content: (, id: KR3j0011_CHANT_002-bkkpn168}
+  - {type: voice, offset: 600, length: 18, name: note, id: n20}
   - {type: punctuation, offset: 603, content: ，, id: KR3j0011_CHANT_002-bkkpn169}
   - {type: 'tls:seg', offset: 603, content: '', id: KR3j0011_CHANT_002-3a.14}
   - {type: punctuation, offset: 607, content: 。, id: KR3j0011_CHANT_002-bkkpn170}
@@ -4017,4 +4037,4 @@ markers:
   - {type: xml-element, offset: 7244, content: '', id: KR3j0011_CHANT_002-bkkxmlele58}
   - {type: page-break, offset: 7244, content: '', id: KR3j0011_SBCK_002-26b}
   back: []
-hash: sha256:26b21412965b8d4bbf13d1da58180b7437a200c9efdbea3abdb3f51477d1882e
+hash: sha256:7d472d2421d3f9dc2e98165e874d87059e3ac39f0aa15258eb5f81fcc95c7eec

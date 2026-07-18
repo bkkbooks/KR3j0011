@@ -27,8 +27,8 @@ assets:
   - {seq: 3, filename: KR3j0011_003-CHANT.yaml, hash: 'sha256:01d8e9b354fd647ee695fc39feed482b955c36d8d74238ccee06a921147551e5'}
   - {seq: 4, filename: KR3j0011_004-CHANT.yaml, hash: 'sha256:2013271312fcbb9b30db9273f642423081675b53538324632020ed9a6cf66857'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3j0011_001-CHANT.markers.yaml, hash: 'sha256:07bc2ad912597f7cd34124cf80f98ac92c2e3c8b7089eafe2f38f8b4c33f2f1b'}
-  - {seq: 2, role: markers, filename: assets/KR3j0011_002-CHANT.markers.yaml, hash: 'sha256:31351efd26e6c2a0892f655323f520f6499771e6baec824da27b8229553ea53b'}
+  - {seq: 1, role: markers, filename: assets/KR3j0011_001-CHANT.markers.yaml, hash: 'sha256:66e4a4dbae278d2a1feb45a855f8520d853164042612c680536c7380c9b96cac'}
+  - {seq: 2, role: markers, filename: assets/KR3j0011_002-CHANT.markers.yaml, hash: 'sha256:ac514ec4f45294bb24d74880ff04d1fe4183692b27d2d1edcfc2ccec9361c3f7'}
   - {seq: 3, role: markers, filename: assets/KR3j0011_003-CHANT.markers.yaml, hash: 'sha256:b5cc338b03fca741aee7c133507afc9bac5f35bcb4dd944dec1342077e25c534'}
   - {seq: 4, role: markers, filename: assets/KR3j0011_004-CHANT.markers.yaml, hash: 'sha256:abc6a6cb3e467b6cdb0c3b09e5b8cbe0798561c3aa4fbfe7e2bd4e5db33e6a1e'}
 table_of_contents:
@@ -72,4 +72,4 @@ table_of_contents:
   label: 卷下
   type: section
   level: 1
-hash: sha256:98d36237f8c1e599609bb9b3d237b5675fd6575bef305dc6076f911e98b6ebf6
+hash: sha256:ef678b010119df133b46f44d7f5f81b571c4371668af4be1d612c642717513cd

@@ -24,10 +24,10 @@ assets:
   - {seq: 4, filename: KR3j0011_004-WYG.yaml, hash: 'sha256:28d22754cb2bd13a7cb51ebcd3c9fecd20d9b5e97810ad9d7420deef5f72b46f'}
   - {seq: 5, filename: KR3j0011_005-WYG.yaml, hash: 'sha256:88343a292530ff74358072e3c866c0ad28c7b81aec9c0b48788735d2f3bec115'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0011_000-WYG.markers.yaml, hash: 'sha256:c04829a16ff5e918e759120f2ad1c6fe8bbf4963bafd5ae85df2c3b740c9c368'}
-  - {seq: 1, role: markers, filename: assets/KR3j0011_001-WYG.markers.yaml, hash: 'sha256:459a364526b035ef57c6100c195fbf06845549632d1dcc95bae5e94c2ec6a98a'}
-  - {seq: 2, role: markers, filename: assets/KR3j0011_002-WYG.markers.yaml, hash: 'sha256:6cc529bee1712a79ce7324957869061806f5dba03693f2b51b13cb7da7606692'}
-  - {seq: 3, role: markers, filename: assets/KR3j0011_003-WYG.markers.yaml, hash: 'sha256:9f5c55603c6b5e5135d9c99a7c5d7c7acb13866e2cb1bef84be37caaea7cd066'}
+  - {seq: 0, role: markers, filename: assets/KR3j0011_000-WYG.markers.yaml, hash: 'sha256:19c447a2155dae0ed2f27cd040ec3b03d0f53f5559b62b68902e04e34234089c'}
+  - {seq: 1, role: markers, filename: assets/KR3j0011_001-WYG.markers.yaml, hash: 'sha256:052d086ea576ab3964567315fa8b9a96ec2fc3b31258262ca509ba6a2e94c9f9'}
+  - {seq: 2, role: markers, filename: assets/KR3j0011_002-WYG.markers.yaml, hash: 'sha256:dd56a5d22fb7dd74af4e8fa681d4bf242a251a5b749bb02a3e9bebff22953ee9'}
+  - {seq: 3, role: markers, filename: assets/KR3j0011_003-WYG.markers.yaml, hash: 'sha256:07dea1276f75c2a233afc9dea748130b76a365733daa862fcf1cd41db93f5bdd'}
   - {seq: 4, role: markers, filename: assets/KR3j0011_004-WYG.markers.yaml, hash: 'sha256:23b8c827f78f13d7da148fa132c6bec635652dbf1d743f3e55d92532b663661e'}
   - {seq: 5, role: markers, filename: assets/KR3j0011_005-WYG.markers.yaml, hash: 'sha256:a74ca352dbeb2ae1dbde12e13f6ee2737a3bb4ff7696c14e97d4d36865f9483c'}
 table_of_contents:
@@ -91,4 +91,4 @@ table_of_contents:
   label: juan 005
   type: section
   level: 1
-hash: sha256:fb46c4f1c796805e7e6daf097dc15c4083fedd274a4d9ca67add16ead7be28c0
+hash: sha256:389cad40e5592243fe4db2cee6ef5b71bd450ff7ea64e3658406b908383814d0
