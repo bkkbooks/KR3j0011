@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR3j0011/bkk/v1/markers/1
 seq: 1
 markers:
-  front:
+  body:
   - {type: punctuation, offset: 0, content: 《, id: KR3j0011_CHANT_001-bkkpn1}
   - {type: page-break, offset: 0, content: '', id: KR3j0011_SBCK_001-1a}
   - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書}
@@ -547,6 +547,5 @@ markers:
   - {type: 'tls:seg', offset: 654, content: '', id: KR3j0011_CHANT_001-1a.109}
   - {type: punctuation, offset: 664, content: 。, id: KR3j0011_CHANT_001-bkkpn142}
   - {type: xml-element, offset: 664, content: '', id: KR3j0011_CHANT_001-bkkxmlele2}
-  body: []
   back: []
-hash: sha256:c13a1144fc2bd290fc63c4e002036683a8a3728cbaf8697785663415f969bcc2
+hash: sha256:4cfa6500a846948a2f5c5e76a6212063a2bb467105aeb8752897b94555c4480c
